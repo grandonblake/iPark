@@ -37,3 +37,19 @@ The system of this project will redound to the benefit of the following individu
 - **FUTURE DEVELOPERS.** Future developers may be able to use this study as a reference if they are conducting a similar study/ or create a similar application.
 
 ## System Analysis and Design
+### Context Diagram
+<img src="/screenshots/ContextDiagram.png" width=50% height=50%>
+
+### DFD Level 0
+<img src="/screenshots/DFDLevel0.png" width=50% height=50%>
+
+### Entity Relationship Diagram
+<img src="/screenshots/EntityRelationshipDiagram.png" width=50% height=50%>
+
+### Hierarchical Input Process Output
+<img src="/screenshots/Hierarchical Input Process Output.png" width=50% height=50%>
+
+### Database Design
+<img src="/screenshots/DatabaseDesign.png" width=50% height=50%>
+
+## Project Screenshots
