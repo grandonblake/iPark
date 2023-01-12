@@ -53,3 +53,21 @@ The system of this project will redound to the benefit of the following individu
 <img src="/screenshots/DatabaseDesign.png" width=50% height=50%>
 
 ## Project Screenshots
+### Customer UIs
+<img src="/screenshots/CustomerUIs/LoginScreen.png" width=30% height=30%>
+<img src="/screenshots/CustomerUIs/SignUpScreen.png" width=30% height=30%>
+<img src="/screenshots/CustomerUIs/AccountDetailsScreen.png" width=30% height=30%>
+<img src="/screenshots/CustomerUIs/HomeScreen.png" width=30% height=300%>
+<img src="/screenshots/CustomerUIs/HomeScreenParked.png" width=30% height=30%>
+<img src="/screenshots/CustomerUIs/PaymentScreen.png" width=30% height=30%>
+<img src="/screenshots/CustomerUIs/CashInScreen.png" width=30% height=30%>
+<img src="/screenshots/CustomerUIs/AddPaymentMethodScreen.png" width=30% height=30%>
+<img src="/screenshots/CustomerUIs/AfterPaymentScreen.png" width=30% height=30%>
+<img src="/screenshots/CustomerUIs/ReceiptScreen.png" width=30% height=30%>
+
+### Admin UIs
+<img src="/screenshots/AdminUIs/HomeScreen.png" width=30% height=30%>
+<img src="/screenshots/AdminUIs/MapScreen.png" width=30% height=30%>
+<img src="/screenshots/AdminUIs/QueueScreen.png" width=30% height=30%>
+<img src="/screenshots/AdminUIs/TransactionRecordsScreen.png" width=30% height=30%>
+<img src="/screenshots/AdminUIs/FilterScreen.png" width=30% height=30%>
