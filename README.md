@@ -1,5 +1,5 @@
 # iPark
-An Automated Parking with Cashless Payment System | 2nd Year Final Project [Java]
+A simple locally-hosted Automated Parking with Cashless Payment System using Java and LiveSQL.
 
 This project was a group effort that was submitted on Jun 8, 2022 as a Final Project requirement during my 2nd year in College.
 
